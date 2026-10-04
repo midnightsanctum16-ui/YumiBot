@@ -14,7 +14,7 @@ module.exports = {
     // Use "any" to accept any leading symbol, or "" / "none" for no prefix
     PREFIX:                process.env.PREFIX || "!",
     BOT_NAME:              process.env.BOT_NAME || "Yumi Bot",
-    OWNER_NUMBER:          process.env.OWNER_NUMBER || "918638968730",
+    OWNER_NUMBER:          process.env.OWNER_NUMBER || "919864886766",
     OWNER_NAME:            process.env.OWNER_NAME || "FallËn",
     DESCRIPTION:           process.env.DESCRIPTION || "Yumi is in your service",
     ALIVE_IMG:             process.env.ALIVE_IMG || "https://ibb.co/spGMFVy5",
