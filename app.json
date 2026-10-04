@@ -11,12 +11,12 @@
     "SESSION_ID": {
       "description": "Your WhatsApp session ID. Get it from the pairing page.",
       "required": true,
-      "value": "Silva~H4sIAAAAAAAAA5VW21LbSBD9l3l1V5juubuKqphbFjBJwCZZSPGgWGOjRbaEJBNMyv++1SNI8rCbZV12IQ2j7tOnz+nRd7Gqijaexo0Yfhd1UzxkXeTLblNHMRR76/k8NgJEnnWZGH4h6YGkAbQWtAYiCaQATQAHaBQQBUAbANGkv2TBQgBygBpBSUBpgJQDVBq8AwJUBGgJjAIMDkgpQB/ASXB0swVRr7+Wxex3kMgCaQ+IjtOhM4Aa0EogDICBbz2gB5Sh//UINIKWoF3CbC0vozFAiIDBQiAglLyL60LjAQkweLB0s2VcWdEUq8VhfRuXscnK07j5mBXN62j0ErQCMgQUgCTHl4kzpo4UWAPIRDjsySLJhJBRkMqyQMqAJSAm3xIoBNQGMOhELHqmg3lV8Bxf+leRyV1C5KwaggNHwIVzWOxZtgEcYzQQPJBCJhA1r+gETBFT5hJTGoGMhsC0I3AjlAHSlKKjIcaYuGyLxSrmx3lcdUW3eb0YFXFUllxQoAkCJzTA+MEAGWQ4xqZKHKBjRgxvRIu8mStVPTrkW+2BtAVkYWquWQNxEdpDsK8Tow5AxI/3MkangVTfM76UCESMUoLseQ0EisXH9Gl2QRKgw4QRk9HYIsaD88BNMIqrYtFLZv8XAj82L0a++z9iRGcBmRQyoC3jYumwS6TmpMwje14boH4Lm4rQP8uPq5RAkn8WvO8JUH2VaCzrwCeLJeWSAv86Z1sJmp/kdJYhMTmU1M1tYjBWJZTIGnje6xJnKlHfd5WnjgIDAQKzrBI4FkkqDJN6UP4gMuvWze/5UoA8/BKGviGG5RR4oLAdPes/eZSVZHSSnOavBSabeWE7BNnPAAtoXZo+XIQBg6khRD75zps0AZjxvlTiSWHAyCRP9NyywEl8T7YDjiodeB4yqR8KE4U+SUyxeIBYd9a8zD6F3JS7uDnOxRC3IJq4KNquybqiWqU1ZUFk+cMkzprYJaWJ5nwyn00vlg+N//BHvVTX06qhvTHSh6frqb32Z/ZdPqdyrDq9K0DUTTWLbRvzP4q2q5rNWWzbbBFbMfxyA2IVH7tew5xOIYh50bTd5Wpdl1WWvwj85Z/ZbFatV91ks5rt80VsxFD+XI5dV6wWLTdyvcqa2W3xEPdvs64Vw3lWtvFHhbGJ+fPaj6f5qTx2WVG2Yij2T+N08/Vs73D8dLnort69Gx0uRvuLkfiZ7UU3PS2Pg3O86maDppZ3B37011lV3Q8OFtlYuvXe7YWaD/7cm5CKTla7/xBEDMX1vvLy8+BC4n62OLx6HJf3ocCT4+lDeXBxlDejxW15eV3ulAeqm118o/ZucvB+ejvSR9dqJHG/eyr0eXey140e24NqcHny/vPOaLHL2fL4UMzir8kG5+uC8P1Sf1yuawyfvn6eL8fTRRzY8Rk+TfaL4+P5pi1VnWVHo/HJ/Xj8uPNtHJUaVR1OrnYO8JAu7sr7/NPg8djXp4f3o7vF+e6u2IJYJisVuRiKgN4qH6x3Sg7xbfvmG7cjq+s3q9gJEGXahcaTQotoZUCphviW11+8WT6fEkUSDQfm23kR07BbZZzuPxP1DLCO5BZ+CfE8Pf/F92zYkExpVDr9sB9LPGeM66d4P8+TNVF5tiQfHsayx7VL01R5SPZjyyL1rx88gfi9RXJ8Ph8DOH2z3d6AqMusm1fNUgxFtsqbqsgFiKZas7iPV/Pqd28Z/NbjARV4SMd/mbXd6KdrpsUytl22rMUQXUCJqIIDsdyM6nrSZd2L2cSIP0fLjdj+DaklyHwwCgAA"
+      "value": ""
     },
     "OWNER_NUMBER": {
       "description": "Owner WhatsApp number with country code (e.g. 254712345678).",
       "required": true,
-      "value": "918638968730"
+      "value": "919864886766"
     },
     "PREFIX": {
       "description": "Command prefix. Single: '.' | Multiple: '.,!,/,?' | Any symbol: 'any' | No prefix: 'none'.",
